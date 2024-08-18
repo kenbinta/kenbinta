@@ -1,4 +1,4 @@
 - 👋 Hi, I create user-friendly and aesthetically pleasing web experiences. With 3 years of working as a freelancer, I have developed web projects such as ecommerce web applications for a number of clients.
 - ⚛️ I have worked on most of my projects in ReactJs and a few in VueJs. I have experience using TailwindCSS framework to create effective and responsive user interfaces
-- 🏗️ Portfolio : https://ken-dev-portfolio.pages.dev
+- 🏗️ Portfolio : [portfolio](https://ken-dev-portfolio.pages.dev)
 - 📧 You can reach out to me through my email : bintakenneth@gmail.com.
